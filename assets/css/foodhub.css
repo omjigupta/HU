@@ -859,14 +859,14 @@ footer {
 
 .social-link ion-icon {
   color: var(--cultured);
-  font-size: 15px;
+  font-size: 30px;
   transition: 0.25s ease;
 }
 
 .social-link ion-icon:hover { color: var(--saffron); }
 
 .copyright {
-  font-size: 12px;
+  font-size: 15px;
   color: var(--rhythm);
   text-align: center;
   letter-spacing: 0.5px;
